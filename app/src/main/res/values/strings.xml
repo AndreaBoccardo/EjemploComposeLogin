@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjemploComposeLogin</string>
+    <string name="login_title">Spend-o-meter</string>
+    <string name="login_subtitle">Tu app de finanzas personales</string>
+    <string name="login_legal1">Al usar esta aplicación estás aceptando nuestros</string>
+    <string name="login_legal2">Términos de servicios</string>
+    <string name="login_legal3">y</string>
+    <string name="login_legal4">Política de privacidad</string>
+    <string name="login_cta">Login con Google</string>
+</resources>
